@@ -1,0 +1,32 @@
+li{
+    display:inline;
+    margin:15px;
+}
+h1::first-line{
+    font-family:lucida calligraphy;
+    font-size:2cm;
+    color:#6bb85a;
+    text-shadow:5px 8px 9px #66875f;
+}
+body{
+    background:linear-gradient(to right,#ffe7c4,#ffc4c4);
+    text-align:center;
+}
+img{
+    border:3px solid darkgreen;
+}
+img:hover{
+    opacity:0.5;
+}
+table,tr,td,th{
+    border:3px solid #23374f;
+    border-collapse:collapse;
+}
+.rooms{
+    background:linear-gradient(to right,#570007,#7d2a31);
+    color:white;
+    border:3px solid #23374f;
+}
+h2{
+    color:#6fdcde;
+}
